@@ -1,4 +1,4 @@
-# clinical-trials
+# Mining ClinicalTrials.gov
 Data mining 40,000+ oncology studies on ClinicalTrials.gov
 
 <div>
