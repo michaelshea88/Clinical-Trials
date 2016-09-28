@@ -1,0 +1,6 @@
+{
+  "name": "Mining ClinicalTrials.gov",
+  "tagline": "Data mining 40,000+ oncology studies on ClinicalTrials.gov",
+  "body": "[ClinicalTrials.gov](https://clinicaltrials.gov/) is a government-funded registry of over 200,000 clinical trials. Since 2007, virtually all major studies of drugs and biologics have been required by law to be registered on the site.\r\n\r\nThe site is maintained by the National Institutes of Health and lists studies conducted in all 50 states and 192 countries. Each trial page contains a detailed description of the conditions, interventions and outcomes being studied, as well as the study design, enrollment and funding sources. For example, [here](https://clinicaltrials.gov/ct2/show/NCT02154490?term=lung+map&rank=1) is the page dedicated to Lung-MAP, a trial currently being overseen by Friends of Cancer Research ( additional information about the trial can be found at [www.lung-map.org](www.lung-map.org)).\r\n\r\n<iframe width=\"900\" height=\"800\" frameborder=\"0\" scrolling=\"no\" src=\"https://plot.ly/~mshea88/5.embed\"></iframe>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
